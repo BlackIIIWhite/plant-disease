@@ -41,7 +41,7 @@ Hi! I'm **Amit**, and this is a classical Machine Learning project where I built
 
 ## 📑 Technologies Used
 - Python
-- Machine Learning (Scikit-learn / TensorFlow / Keras — whichever you used)
+- Machine Learning (TensorFlow / Keras)
 - OpenCV for image preprocessing
 - Streamlit for deploying the ML model as a web app
 - Matplotlib / Seaborn for visualizations
